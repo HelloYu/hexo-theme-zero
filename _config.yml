@@ -27,11 +27,11 @@ rss:
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   #about: /about
   archives: /archives
   tags: /tags
-  #commonweal: /404.html
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -78,8 +78,10 @@ sidebar: post
 
 
 # Social links
-# social:
-  #GitHub:
+social:
+  GitHub: https://github.com/HelloYu
+  Twitter: https://twitter.com/jeffrey_colbert
+  zhihu: http://www.zhihu.com/people/yuyanping
   #Others:
 
 # Social Icons
